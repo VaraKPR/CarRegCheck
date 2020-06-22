@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="61109" started-at="2020-06-22T19:12:23 BST" finished-at="2020-06-22T19:13:24 BST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="61109" started-at="2020-06-22T19:12:23 BST" finished-at="2020-06-22T19:13:24 BST">
+      <class name="TestNGTest.CarRegistrationCheck">
+        <test-method status="PASS" signature="readAndExtractInputFile()[pri:1, instance:TestNGTest.CarRegistrationCheck@e320068]" name="readAndExtractInputFile" duration-ms="20" started-at="2020-06-22T19:12:23 BST" finished-at="2020-06-22T19:12:23 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readAndExtractInputFile -->
+        <test-method status="PASS" signature="verifyRegistrationNumbers()[pri:2, instance:TestNGTest.CarRegistrationCheck@e320068]" name="verifyRegistrationNumbers" duration-ms="60999" started-at="2020-06-22T19:12:23 BST" finished-at="2020-06-22T19:13:24 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegistrationNumbers -->
+      </class> <!-- TestNGTest.CarRegistrationCheck -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
